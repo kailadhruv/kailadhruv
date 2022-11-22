@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Angular,python,css**
 
-- 💬 Ask me about **C++,JavaScript**
+- 💬 Ask me about **OOPS(Object-oreinted Programming)**
 
 - 📫 How to reach me **kailadhruv99@gmail.com**
 
